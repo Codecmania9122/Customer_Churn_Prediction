@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Churn_prediction
 
 Customer Churn Prediction using machine learning models to identify customers likely to leave, enabling proactive retention strategies.
@@ -49,3 +50,7 @@ It's intended as a guideline - definitely feel free to play around with its stru
 To create a project like this, just go to https://dagshub.com/repo/create and select the **Jupyter Notebook + DVC** project template.
 
 Made with 🐶 by [DAGsHub](https://dagshub.com/).
+=======
+# Customer_Churn_Prediction
+official github repository for Customer Churn Prediction project
+>>>>>>> 05072777a7ba03218aca1f7820af8e84785fa468
