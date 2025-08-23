@@ -1,3 +1,12 @@
+/state
+/lock
+/config.local
+/updater
+/updater.lock
+/state-journal
+/state-wal
+/cache
+/tmp
 /config.local
 /tmp
 /cache
