@@ -1,0 +1,22 @@
+preprocessing:
+  categorical_cols:
+    - gender
+    - Partner
+    - Dependents
+    - PhoneService
+    - MultipleLines
+    - InternetService
+    - OnlineSecurity
+    - OnlineBackup
+    - DeviceProtection
+    - TechSupport
+    - StreamingTV
+    - StreamingMovies
+    - Contract
+    - PaperlessBilling
+    - PaymentMethod
+  numeric_cols:
+    - tenure
+    - MonthlyCharges
+    - TotalCharges
+  target_col: Churn
