@@ -94,5 +94,29 @@
         "PredictedChurn": "No",
         "ChurnProbability": 0.4008747935295105,
         "timestamp": "2025-08-24 14:01:43.460788"
+    },
+    {
+        "gender": "Male",
+        "SeniorCitizen": "1",
+        "Partner": "Yes",
+        "Dependents": "Yes",
+        "tenure": 19,
+        "PhoneService": "Yes",
+        "MultipleLines": "Yes",
+        "InternetService": "DSL",
+        "OnlineSecurity": "No",
+        "OnlineBackup": "Yes",
+        "DeviceProtection": "Yes",
+        "TechSupport": "Yes",
+        "StreamingTV": "Yes",
+        "StreamingMovies": "Yes",
+        "Contract": "One year",
+        "PaperlessBilling": "Yes",
+        "PaymentMethod": "Credit card (automatic)",
+        "MonthlyCharges": 100.0,
+        "TotalCharges": 4000.0,
+        "PredictedChurn": "No",
+        "ChurnProbability": 0.115538090467453,
+        "timestamp": "2025-08-24 18:50:59.131548"
     }
 ]
