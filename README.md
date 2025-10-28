@@ -55,6 +55,10 @@ It integrates **DVC for data versioning**, **MLflow (via DagsHub)** for experime
 | **Version Control** | Git, GitHub |
 
 ---
+## 📊 Experiment Tracking
+
+All model training experiments, hyperparameter tuning, and performance metrics were logged using **MLflow** on DagsHub.  
+**[🔗 View the MLflow Dashboard here](https://dagshub.com/Codecmania9122/Churn_prediction.mlflow/)**
 
 ## ⚙️ Installation & Usage
 
